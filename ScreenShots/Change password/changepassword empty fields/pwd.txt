@@ -1,1 +1,0 @@
-Screenshots depecting Test Cases for Empty Left Password Fields

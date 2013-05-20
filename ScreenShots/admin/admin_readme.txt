@@ -1,1 +1,0 @@
-Here Admin implies the Administrator of the WebSite of DarkLord.
